@@ -1,0 +1,38 @@
+body {
+	display: block;
+	justify-items: center;
+	margin-top: 70px;
+}
+
+.realBody {
+	background-color: aqua;
+	padding: 20px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+
+label {
+	font-size: 20px;
+
+}
+
+input {
+	height: 40px;
+	width: 250px;
+	font-size: 30px;
+}
+
+button {
+	height: 50px;
+	width: 50px;
+	font-size: 25px;
+}
+
+p {
+	font-size: 20px;
+}
+
+#result {
+	font-size: 30px;
+}
